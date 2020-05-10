@@ -7,7 +7,7 @@ from datetime import datetime
 import math
 import re
 
-apiKey = 'YOURAPIKEYGOESHERE
+apiKey = 'YOURAPIKEYGOESHERE'
 
 #Options
 #sequence = [[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],[1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,1597,2584,4181,6765],[1,2,4,8,16,32,64,128,256,512,1024,2048,8192,16384,32768,65536,131072,262144,524288]]
